@@ -1,0 +1,42 @@
+.no{
+    float:right;
+    margin-right: 100px;
+    
+}
+.yes{
+    float :left;
+    margin-left:100px;
+    
+}
+#butoon{
+    height:50px;
+    width:200px;
+    font-size:40px;
+    background-color: lightgreen;
+    margin-right:325px;
+    }
+    #butoon_2{
+        height:50px;
+        width:200px;
+        font-size:40px;
+        background-color: red;
+        /* margin-right:300px; */
+        }
+#g{
+    background-color: yellow;
+}
+#jdfj{
+    background-color:lightblue;
+}
+h3{
+    background-color: orange;
+}
+body{
+    background-image:url(background.jpg);
+}
+canvas{
+    background-color: black;
+    border-radius:50px;
+    border:5px solid white;
+    margin-top:300px;
+}
